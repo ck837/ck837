@@ -16,7 +16,7 @@
   </picture>
 
 ### My Contributions
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Never+give+up,+then+You+will+be+successful!;Jack20)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Never+give+up,+then+You+will+be+successful!;ck837)
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
